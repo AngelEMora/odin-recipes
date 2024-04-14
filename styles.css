@@ -1,0 +1,63 @@
+body {
+    background-image: url(https://as2.ftcdn.net/v2/jpg/05/64/97/31/1000_F_564973106_xO0n1BvNmsFy2Sj2SK2Uy2pzH3hDqeDy.jpg);
+    
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1,
+h2 {
+    background-color: #0265b1;
+    color: #ffffff;
+    font-family: Helvetica, Arial;
+    
+}
+
+
+
+div {
+    background-color: #9fc5e8;
+    
+}
+
+.recipes,
+.back {
+    font-family: Helvetica, Arial;
+    font-size: 20px;
+    color: #ffffff;
+
+}
+
+.back {
+    background-color: #0265b1;
+    
+
+}
+
+
+.ingredients,
+.steps,
+.description {
+    
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTIwNDk4OS1pbWFnZS1rd3Z5M2R1Yy5qcGc.jpg);
+    font-size: 20px;
+    font-family: Helvetica, Arial;
+
+}
+
+.description,
+.ingredients,
+.steps,
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
