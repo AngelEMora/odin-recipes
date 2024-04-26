@@ -1,15 +1,47 @@
 body {
     background-image: url(https://as2.ftcdn.net/v2/jpg/05/64/97/31/1000_F_564973106_xO0n1BvNmsFy2Sj2SK2Uy2pzH3hDqeDy.jpg);
     
+}
+
+.odin-recipes {
+    width: 800px;
+    margin: 16px 200px;
+    
 
 }
 
 h1 {
     font-size: 40px;
+    margin-bottom: 0;
+    padding: 8px;
+    text-align: center;
 }
+
+.recipes {
+    background-color: #cedefc;
+    padding: 8px 200px;
+    
+
+}
+
+.list {
+    
+    margin: 20px 0;
+}
+
+.list li {
+    margin: 20px;
+    font-family: italic;
+    font-size: 25px;
+    font-weight: bold;
+    color: #0265b1;
+}
+
+
 
 h2 {
     font-size: 30px;
+    margin-bottom: 0;
 }
 
 h1,
@@ -20,11 +52,35 @@ h2 {
     
 }
 
+.pizza {
+    margin-top: auto;
+    padding: 20px;
+}
 
+.image {
+    padding: 0 425px;
+    background-color: #cedefc;
+}
 
-div {
-    background-color: #9fc5e8;
+.back a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px 25px;
     
+
+}
+
+a:hover {
+    background-color: #5282da;
+}
+
+.back {
+    background-color: #0265b1;
+    padding: 15px 25px;
+    margin-bottom: 30px;
+    display: inline-block;
+    text-align: center;
+
 }
 
 .recipes,
@@ -35,11 +91,7 @@ div {
 
 }
 
-.back {
-    background-color: #0265b1;
-    
 
-}
 
 
 .ingredients,
@@ -49,6 +101,7 @@ div {
     background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTIwNDk4OS1pbWFnZS1rd3Z5M2R1Yy5qcGc.jpg);
     font-size: 20px;
     font-family: Helvetica, Arial;
+    margin-top: 0;
 
 }
 
